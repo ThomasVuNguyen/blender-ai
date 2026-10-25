@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.blend1
+*.blend2
+*.log
+.DS_Store
